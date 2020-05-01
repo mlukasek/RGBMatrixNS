@@ -3,6 +3,8 @@ Nightscout monitor for RGB Matrix panel
 
 Very preliminary version, not suitable for end users. More proof of concept than usable product.
 
+All credentials (WiFi and Nightscout) are in arduino_secrets.h, this file has to be edited and updated to your info.
+
 Used components:  
 Adafruit Feather M0 WiFi with ATWINC1500 (PRODUCT ID: 3010)  
 Adafruit RGB Matrix Featherwing Kit - For M0 and M4 Feathers (PRODUCT ID: 3036)  
