@@ -1,7 +1,7 @@
 # RGBMatrixNS
 Nightscout monitor for RGB Matrix panel
 
-Very preliminary version, not suitable for end users.
+Very preliminary version, not suitable for end users. More proof of concept than usable product.
 
 Used components:  
 Adafruit Feather M0 WiFi with ATWINC1500 (PRODUCT ID: 3010)  
